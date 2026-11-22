@@ -10,6 +10,10 @@ A whole collection of unique tools and services that help make software dev and 
 - **[Checkmate](https://checkmate.so/)** — *Open-source self-hosted infrastructure monitoring — uptime, servers, containers, pagespeed, and status pages behind one login with no per-monitor pricing* ⭐ 11.1k [TypeScript]
 - **[Kiri](https://github.com/libracoder/kiri)** — *Tiny, fast Rust container runtime for macOS/Windows/Linux — a lightweight Docker Desktop/OrbStack replacement that speaks the Docker Engine API so the docker CLI, Compose, and buildx work unchanged; ~80× faster container starts, a free Ngrok-style tunnel, and built-in single-node Kubernetes* ⭐ 1.4k [Rust]
 
+## Other / Uncategorized
+
+- **[Homescape](https://github.com/muratozturkdev/homescape)** — *Render your Home Assistant home as a live, interactive 3D dollhouse in the browser — lights glow, doors open with sensors, and pets move through the house, fully local with no cloud or 3D model files* ⭐ 240 [TypeScript]
+
 ## Productivity Apps
 
 - **[Harper](https://writewithharper.com/)** — *Privacy-first offline grammar checker written in Rust — runs locally with sub-10ms suggestions, available as browser/editor extensions and native apps* ⭐ 16.8k [Rust]
