@@ -3,6 +3,7 @@ A whole collection of unique tools and services that help make software dev and 
 
 ## Developer Tools
 
+- **[Skills Manager](https://skillsmanager.dev/)** — *Install a skill once and deploy it to Claude Code, Codex, Cursor, and 53 more agents from one central library — browse the skills.sh marketplace, sync project skills, and back up to GitHub with no account or telemetry*
 - **[SwitchHosts](https://switchhosts.app/)** — *Manage multiple hosts file configurations and switch between them with a click — supports syntax highlighting, remote hosts with scheduled refresh, and system tray switching across macOS, Windows, and Linux* ⭐ 27.4k [TypeScript]
 
 ## DevOps & Infrastructure
